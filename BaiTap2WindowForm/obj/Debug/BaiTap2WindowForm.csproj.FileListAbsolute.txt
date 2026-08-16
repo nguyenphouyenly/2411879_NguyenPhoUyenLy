@@ -1,0 +1,12 @@
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\bin\Debug\BaiTap2WindowForm.exe.config
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\bin\Debug\BaiTap2WindowForm.exe
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\bin\Debug\BaiTap2WindowForm.pdb
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.csproj.AssemblyReference.cache
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.Form1.resources
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.frmBai2.resources
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.Properties.Resources.resources
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.csproj.GenerateResource.cache
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.csproj.CoreCompileInputs.cache
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.exe
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.pdb
+C:\LẬP TRÌNH DESKTOP\BaiThucHanhBuoi1\BaiTap2WindowForm\obj\Debug\BaiTap2WindowForm.exe.config
